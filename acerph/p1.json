@@ -1,0 +1,821 @@
+{
+    "Laptop": {
+        "url": "https://store.acer.com/en-ph/notebooks",
+        "sub-categories": {
+            "Consumer": {
+                "url": "https://store.acer.com/en-ph/notebooks/consumer",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    }
+                ]
+            },
+            "Aspire": {
+                "url": "https://store.acer.com/en-ph/notebooks/aspire",
+                "items": []
+            },
+            "Ultra-Thin": {
+                "url": "https://store.acer.com/en-ph/notebooks/ultra-thin"
+            },
+            "Swift": {
+                "url": "https://store.acer.com/en-ph/notebooks/swift",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-w-nvidia-gt730",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_1.jpeg",
+                        "name": "Aspire TC-866 w/ Nvidia GT730",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor bundle",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD storage",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-core-i7-gt1030-128gb-1tb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_4.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " core i7, GT1030, 128GB + 1TB HDD",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i7-9700",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-gt1030-and-128gb-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_3.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " GT1030 and 128GB SSD + 1TB",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i5-9400",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am.jpeg",
+                        "name": "Aspire TC-866",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD",
+                            "2 years warranty"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "Desktops": {
+        "url": "https://store.acer.com/en-ph/desktops",
+        "sub-categories": {
+            "Consumer": {
+                "url": "https://store.acer.com/en-ph/desktops/consumer",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-3-sf314-57-5954-i5-1035g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-30_at_6.52.06_am_1_.jpeg",
+                        "name": "Swift 3 SF314-57-5954 ",
+                        "name_specs": " i5-1035G1 , 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics",
+                            "48 Wh 4200 mAh 11.4 V 3-cell Li-ion battery pack",
+                            "Battery life up to 10 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-7-sf714-52t-711t-i7-8500y-16gb-ram-512gb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_11.30.31_pm.jpeg",
+                        "name": "Swift 7 SF714-52T-711T ",
+                        "name_specs": " i7-8500Y, 16GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics 615",
+                            "32 Wh 2770 mAh 11.55 V 3-cell Li-ion battery pack",
+                            "Battery life up to 12 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-3-sf313-52-55eg-i5-1035g4-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2_.jpeg",
+                        "name": "Swift 3 SF313-52-55EG ",
+                        "name_specs": " i5-1035G4, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-3-sf313-52-712l-i7-1065g7-16gb-ram-1tb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2__1.jpeg",
+                        "name": "Swift 3 SF313-52-712L ",
+                        "name_specs": " i7-1065G7, 16GB RAM, 1TB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    }
+                ]
+            },
+            "All-in-One": {
+                "url": "https://store.acer.com/en-ph/desktops/aio",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-3-sf314-57-5954-i5-1035g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-30_at_6.52.06_am_1_.jpeg",
+                        "name": "Swift 3 SF314-57-5954 ",
+                        "name_specs": " i5-1035G1 , 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics",
+                            "48 Wh 4200 mAh 11.4 V 3-cell Li-ion battery pack",
+                            "Battery life up to 10 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-7-sf714-52t-711t-i7-8500y-16gb-ram-512gb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_11.30.31_pm.jpeg",
+                        "name": "Swift 7 SF714-52T-711T ",
+                        "name_specs": " i7-8500Y, 16GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics 615",
+                            "32 Wh 2770 mAh 11.55 V 3-cell Li-ion battery pack",
+                            "Battery life up to 12 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-3-sf313-52-55eg-i5-1035g4-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2_.jpeg",
+                        "name": "Swift 3 SF313-52-55EG ",
+                        "name_specs": " i5-1035G4, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/ultra-thin/swift-3-sf313-52-712l-i7-1065g7-16gb-ram-1tb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2__1.jpeg",
+                        "name": "Swift 3 SF313-52-712L ",
+                        "name_specs": " i7-1065G7, 16GB RAM, 1TB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "Monitor": {
+        "url": "https://store.acer.com/en-ph/monitor",
+        "sub-categories": {
+            "Consumer": {
+                "url": "https://store.acer.com/en-ph/monitor/consumer",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/aspire-3-a314-22-r8ax-ryzen-5-3500u-4gb-ram-128gb-ssd-1tb-hd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-10-06_at_9.45.57_am.jpeg",
+                        "name": "Aspire 3 A314-22-R8AX ",
+                        "name_specs": " Ryzen 5 3500U, 4GB RAM, 128GB SSD + 1TB HD",
+                        "listed_specs": [
+                            "14\" TFT Full HD 1920 x 1080 resolution",
+                            "AMD Radeon Vega 8 Mobile Graphic",
+                            "36.7 Wh 2-cell Li-ion battery",
+                            "Battery life up to 9.5 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf314-57-5954-i5-1035g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-30_at_6.52.06_am_1_.jpeg",
+                        "name": "Swift 3 SF314-57-5954 ",
+                        "name_specs": " i5-1035G1 , 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics",
+                            "48 Wh 4200 mAh 11.4 V 3-cell Li-ion battery pack",
+                            "Battery life up to 10 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf313-52-55eg-i5-1035g4-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2_.jpeg",
+                        "name": "Swift 3 SF313-52-55EG ",
+                        "name_specs": " i5-1035G4, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/spin-5-sp513-54n-53x8-i5-1035g4-8gb-ram-512gb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_5.52.53_pm.jpeg",
+                        "name": "Spin 5 SP513-54N-53X8 ",
+                        "name_specs": " i5-1035G4, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "13.5\" VertiView display w/ IPS technology, 2K resolution (2256 x 1504) and supporting multi-touch and AES pen solution",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 15 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf313-52-712l-i7-1065g7-16gb-ram-1tb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2__1.jpeg",
+                        "name": "Swift 3 SF313-52-712L ",
+                        "name_specs": " i7-1065G7, 16GB RAM, 1TB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/spin-5-sp513-54n-73zx-i7-1065g7-16gb-ram-1tb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_5.52.53_pm_1.jpeg",
+                        "name": "Spin 5 SP513-54N-73ZX",
+                        "name_specs": " i7-1065G7, 16GB RAM, 1TB SSD",
+                        "listed_specs": [
+                            "13.5\" VertiView display w/ IPS technology, 2K resolution (2256 x 1504) and supporting multi-touch and AES pen solution",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 15 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-7-sf714-52t-711t-i7-8500y-16gb-ram-512gb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_11.30.31_pm.jpeg",
+                        "name": "Swift 7 SF714-52T-711T ",
+                        "name_specs": " i7-8500Y, 16GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics 615",
+                            "32 Wh 2770 mAh 11.55 V 3-cell Li-ion battery pack",
+                            "Battery life up to 12 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf314-57-53x9-i5-1035g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/s/f/sf314-57-pink_front.jpg",
+                        "name": "Swift 3 SF314-57-53X9 ",
+                        "name_specs": " i5-1035G1, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel UHD Graphics",
+                            "48 Wh 4200 mAh 11.4 V 3-cell Li-ion battery",
+                            "Battery life up to 10 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/aspire-5-a514-53-361r-i3-1005g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-16_at_8.49.25_pm_2__1.jpeg",
+                        "name": "Aspire 5 A514-53-361R ",
+                        "name_specs": " i3-1005G1, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14\" TFT LCD w/ HD 1366 x 768 resolution",
+                            "Intel\u00ae UHD Graphics 620",
+                            "48 Wh 3-cell Li-ion battery",
+                            "Battery life up to 10.5 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/aspire-3-a314-32-p2ns-pentium-n5030-4gb-ram-128gb-ssd-500gb-hd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/a/o/aos_template_a314-32-c8z2_front_2_4.jpg",
+                        "name": "Aspire 3 A314-32-P2NS ",
+                        "name_specs": " Pentium N5030, 4GB RAM, 128GB SSD + 500GB HD",
+                        "listed_specs": [
+                            "14\" TFT LCD HD 1366 x 768 resolution",
+                            "Intel\u00ae HD Graphics 605",
+                            "37 Wh 4810 mAh 7.7 V 2-cell Li-ion battery",
+                            "Battery life up to 6.5 hours"
+                        ]
+                    }
+                ]
+            },
+            "Gaming": {
+                "url": "https://store.acer.com/en-ph/monitor/gaming",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/aspire-3-a314-22-r8ax-ryzen-5-3500u-4gb-ram-128gb-ssd-1tb-hd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-10-06_at_9.45.57_am.jpeg",
+                        "name": "Aspire 3 A314-22-R8AX ",
+                        "name_specs": " Ryzen 5 3500U, 4GB RAM, 128GB SSD + 1TB HD",
+                        "listed_specs": [
+                            "14\" TFT Full HD 1920 x 1080 resolution",
+                            "AMD Radeon Vega 8 Mobile Graphic",
+                            "36.7 Wh 2-cell Li-ion battery",
+                            "Battery life up to 9.5 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf314-57-5954-i5-1035g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-30_at_6.52.06_am_1_.jpeg",
+                        "name": "Swift 3 SF314-57-5954 ",
+                        "name_specs": " i5-1035G1 , 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics",
+                            "48 Wh 4200 mAh 11.4 V 3-cell Li-ion battery pack",
+                            "Battery life up to 10 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf313-52-55eg-i5-1035g4-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2_.jpeg",
+                        "name": "Swift 3 SF313-52-55EG ",
+                        "name_specs": " i5-1035G4, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/spin-5-sp513-54n-53x8-i5-1035g4-8gb-ram-512gb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_5.52.53_pm.jpeg",
+                        "name": "Spin 5 SP513-54N-53X8 ",
+                        "name_specs": " i5-1035G4, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "13.5\" VertiView display w/ IPS technology, 2K resolution (2256 x 1504) and supporting multi-touch and AES pen solution",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 15 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf313-52-712l-i7-1065g7-16gb-ram-1tb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-06_at_2.20.55_pm_2__1.jpeg",
+                        "name": "Swift 3 SF313-52-712L ",
+                        "name_specs": " i7-1065G7, 16GB RAM, 1TB SSD",
+                        "listed_specs": [
+                            "13.5\" IPS LCD display with 2256 x 1504 resolution (2K resolution)",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 16 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/spin-5-sp513-54n-73zx-i7-1065g7-16gb-ram-1tb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_5.52.53_pm_1.jpeg",
+                        "name": "Spin 5 SP513-54N-73ZX",
+                        "name_specs": " i7-1065G7, 16GB RAM, 1TB SSD",
+                        "listed_specs": [
+                            "13.5\" VertiView display w/ IPS technology, 2K resolution (2256 x 1504) and supporting multi-touch and AES pen solution",
+                            "Intel\u00ae Iris\u00ae Plus Graphics",
+                            "56 Wh 4-cell Li-ion battery",
+                            "Battery life up to 15 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-7-sf714-52t-711t-i7-8500y-16gb-ram-512gb-ssd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-08-07_at_11.30.31_pm.jpeg",
+                        "name": "Swift 7 SF714-52T-711T ",
+                        "name_specs": " i7-8500Y, 16GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel\u00ae UHD Graphics 615",
+                            "32 Wh 2770 mAh 11.55 V 3-cell Li-ion battery pack",
+                            "Battery life up to 12 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/swift-3-sf314-57-53x9-i5-1035g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/s/f/sf314-57-pink_front.jpg",
+                        "name": "Swift 3 SF314-57-53X9 ",
+                        "name_specs": " i5-1035G1, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14.0\" display with IPS technology, Full HD 1920 x 1080",
+                            "Intel UHD Graphics",
+                            "48 Wh 4200 mAh 11.4 V 3-cell Li-ion battery",
+                            "Battery life up to 10 hours "
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/aspire-5-a514-53-361r-i3-1005g1-8gb-ram-512gb-ssd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-16_at_8.49.25_pm_2__1.jpeg",
+                        "name": "Aspire 5 A514-53-361R ",
+                        "name_specs": " i3-1005G1, 8GB RAM, 512GB SSD",
+                        "listed_specs": [
+                            "14\" TFT LCD w/ HD 1366 x 768 resolution",
+                            "Intel\u00ae UHD Graphics 620",
+                            "48 Wh 3-cell Li-ion battery",
+                            "Battery life up to 10.5 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/notebooks/consumer/aspire-3-a314-32-p2ns-pentium-n5030-4gb-ram-128gb-ssd-500gb-hd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/a/o/aos_template_a314-32-c8z2_front_2_4.jpg",
+                        "name": "Aspire 3 A314-32-P2NS ",
+                        "name_specs": " Pentium N5030, 4GB RAM, 128GB SSD + 500GB HD",
+                        "listed_specs": [
+                            "14\" TFT LCD HD 1366 x 768 resolution",
+                            "Intel\u00ae HD Graphics 605",
+                            "37 Wh 4810 mAh 7.7 V 2-cell Li-ion battery",
+                            "Battery life up to 6.5 hours"
+                        ]
+                    }
+                ]
+            },
+            "Aopen": {
+                "url": "https://store.acer.com/en-ph/monitor/aopen",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an515-55-57da-i5-10300h-8gb-ram-256gb-ssd-1tb-hd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-23_at_11.43.34_am_2.jpeg",
+                        "name": "Nitro 5 AN515-55-57DA",
+                        "name_specs": " i5-10300H, 8GB RAM, 256GB SSD + 1TB HD",
+                        "listed_specs": [
+                            "15.6\" display with IPS and Full HD 1920 x 1080 resolution, supporting 144Hz",
+                            "NVIDIA GeForce GTX 1650Ti with 4 GB GDDR6 memory",
+                            "53 Wh 3560 mAh 15 V 4-cell Li-polymer battery ",
+                            "Battery life up to 8 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an515-54-53af-i5-9300h-4gb-ram-256gb-nvme-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/a/o/aos_template_acer-nitro-5-an515-54-front_3.jpg",
+                        "name": "Nitro 5 AN515-54-53AF",
+                        "name_specs": " i5-9300H, 4GB RAM, 256GB NVMe SSD + 1TB",
+                        "listed_specs": [
+                            "15.6\" display with IPS technology, Full HD 1920 x 1080 supporting 120 Hz",
+                            "NVIDIA\u00ae GeForce\u00ae GTX 1660 Ti  6GB GDDR6 ",
+                            "55 Wh 4-cell Li-ion battery",
+                            "Battery life up to 8 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an715-51-54u3-i5-9300h-4gb-ram-256gb-nvme-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/a/n/an715-51_black-front.jpg",
+                        "name": "Nitro 7 AN715-51-54U3",
+                        "name_specs": " i5-9300H, 4GB RAM, 256GB NVMe SSD + 1TB",
+                        "listed_specs": [
+                            "15.6\" display with IPS technology, Full HD 1920 x 1080",
+                            "NVIDIA\u00ae GeForce\u00ae GTX 1660 Ti with 6 GB GDDR6",
+                            "55 Wh 3580 mAh 15.4 V 4-cell Li-ion battery pack",
+                            "Battery life up to 7 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an515-55-71em-i7-10750h-8gb-ram-512gb-ssd-1tb-hd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-23_at_11.43.34_am_1.jpeg",
+                        "name": "Nitro 5 AN515-55-71EM",
+                        "name_specs": " i7-10750H, 8GB RAM, 512GB SSD + 1TB HD",
+                        "listed_specs": [
+                            "15.6\" display with IPS and Full HD 1920 x 1080 resolution, supporting 144 Hz",
+                            "NVIDIA GeForce GTX 1650 with 4 GB GDDR6 memory",
+                            "53 Wh 3560 mAh 15 V 4-cell Li-polymer battery ",
+                            "Battery life up to 8 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an715-51-58x1-i5-9300h-4gb-ram-256gb-nvme-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/a/n/an715-51_black-front_1.jpg",
+                        "name": "Nitro 7 AN715-51-58X1",
+                        "name_specs": " i5-9300H, 4GB RAM, 256GB NVMe SSD + 1TB",
+                        "listed_specs": [
+                            "15.6\" display with IPS technology, Full HD 1920 x 1080 supporting 144 Hz",
+                            "NVIDIA\u00ae GeForce\u00ae GTX 1660 Ti with 6 GB GDDR6",
+                            "55 Wh 3580 mAh 15.4 V 4-cell Li-ion battery pack",
+                            "Battery life up to 7 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an515-55-76ea-i7-10750h-8gb-ram-512gb-ssd-1tb-hd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-23_at_11.43.34_am_3.jpeg",
+                        "name": "Nitro 5 AN515-55-76EA",
+                        "name_specs": " i7-10750H, 8GB RAM, 512GB SSD + 1TB HD",
+                        "listed_specs": [
+                            "15.6\" display with IPS and Full HD 1920 x 1080 resolution, supporting 144 Hz",
+                            "NVIDIA GeForce GTX 1650Ti with 4 GB GDDR6 memory",
+                            "53 Wh 3560 mAh 15 V 4-cell Li-polymer battery ",
+                            "Battery life up to 8 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an515-55-79le-i7-10750h-16gb-ram-256gb-ssd-1tb-hd-1",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-07-23_at_11.43.34_am_5.jpeg",
+                        "name": "Nitro 5 AN515-55-79LE",
+                        "name_specs": " i7-10750H, 16GB RAM, 256GB SSD + 1TB HD",
+                        "listed_specs": [
+                            "15.6\" display with IPS and Full HD 1920 x 1080 resolution, supporting 144 Hz",
+                            "NVIDIA GeForce GTX 1650Ti with 4 GB GDDR6 memory",
+                            "53 Wh 3560 mAh 15 V 4-cell Li-polymer battery ",
+                            "Battery life up to 8 hours"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/gaming/nitro/nitro-5-an515-43-r2wk-ryzen-7-4gb-ram-256gb-nvme-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/a/o/aos_template_acer-nitro-5-an515-54-front_1.jpg",
+                        "name": "Nitro 5 AN515-43-R2WK ",
+                        "name_specs": " Ryzen 7, 4GB RAM, 256GB NVMe SSD + 1TB",
+                        "listed_specs": [
+                            "15.6\" display with IPS technology, Full HD 1920 x 1080 supporting 120 Hz",
+                            "NVIDIA\u00ae GeForce\u00ae GTX 1650 with 4 GB of dedicated GDDR5",
+                            "55 Wh 4-cell Li-ion battery",
+                            "Battery life up to 9 hours"
+                        ]
+                    }
+                ]
+            },
+            "V Series": {
+                "url": "https://store.acer.com/en-ph/monitor/v-series",
+                "items": []
+            }
+        }
+    },
+    "Gaming": {
+        "url": "https://store.acer.com/en-ph/gaming",
+        "sub-categories": {
+            "Predator": {
+                "url": "https://store.acer.com/en-ph/gaming/predator",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/monitor/gaming/xb241h-bmipr",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-13_at_7.52.01_pm_1_.jpeg",
+                        "name": "Predator XB241H bmipr",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "24\" TN LCD w/ nVidia\u2122 G-sync",
+                            "1920 x 1080 @144Hz",
+                            "16.7 million colors",
+                            "3 years"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/monitor/gaming/aopen-24ml1y",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_9.15.39_am_1_.jpeg",
+                        "name": "AOpen 24ML1Y",
+                           "name_specs": "",
+                        "listed_specs": [
+                            "23.8\" IPS LCD",
+                            "1920 x 1080 resolution with 75Hz refresh rate",
+                            "100 million:1 contrast ratio",
+                            "3 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/monitor/gaming/aopen-24hc1qr-pbidpx",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am.jpeg",
+                        "name": "AOpen 24HC1QR Pbidpx",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "23.6\" Curved Vertically aligned",
+                            "1920x1080 resolution with 144Hz  refresh rate",
+                            "100,000,000:1 contast ratio",
+                            "3 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/monitor/gaming/aopen-27hc1r-pbidpx",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_1.jpeg",
+                        "name": "AOpen 27HC1R Pbidpx",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "27\" Curved Vertically aligned",
+                            "1920 x 1080 resolution with 144Hz refresh rate",
+                            "100,000,000:1 contrast ratio",
+                            "3 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/monitor/gaming/aopen-32hc1qur-pbidpx",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_2.jpeg",
+                        "name": "AOpen 32HC1QUR Pbidpx",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "31.5\" Curved Vertically aligned",
+                            "2560 \u00d7 1440 resolution with 144Hz refresh rate",
+                            "100,000,000:1 contrast ratio",
+                            "3 years warranty"
+                        ]
+                    }
+                ]
+            },
+            "Nitro": {
+                "url": "https://store.acer.com/en-ph/gaming/nitro"
+            }
+        }
+    },
+    "Projector": {
+        "url": "https://store.acer.com/en-ph/projector",
+        "sub-categories": {},
+        "items": [
+            {
+                "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                "name": "Acer X1126H",
+                "name_specs": "",
+                "listed_specs": [
+                    "4,000 ANSI Lumens",
+                    "WUXGA (1920 x 1200)",
+                    "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                    "Projector: 2 years warranty",
+                    "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/projector/c250i",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                "name": "C250i",
+                "name_specs": "",
+                "listed_specs": [
+                    "300 ANSI Lumens ",
+                    "FHD (1920 x 1080) Native resolution",
+                    "20,000 Lamp Hours",
+                    "Projector warranty: 2 years",
+                    "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/projector/c202i",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                "name": "C202i",
+                "name_specs": "",
+                "listed_specs": [
+                    "300 ANSI Lumens",
+                    "20,000 Lamp Hours",
+                    "FWVGA (854 x 480) resolution",
+                    "Projector: 2 years warranty",
+                    "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/projector/x118h",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                "name": "X118H",
+                "name_specs": "",
+                "listed_specs": [
+                    "3,600 ANSI Lumens",
+                    "WUXGA (1,920 x 1,200)",
+                    "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                    "Projector warranty: 2 years",
+                    "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                "name": "X1126AH",
+                "name_specs": "",
+                "listed_specs": [
+                    "4,000 ANSI Lumens",
+                    "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                    "WUXGA (1,920 x 1,200) resolution",
+                    "Projector warranty: 2 years",
+                    "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/projector/p6500",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                "name": "P6500",
+                "name_specs": "",
+                "listed_specs": [
+                    "5,000 ANSI Lumens",
+                    "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                    "WUXGA (1,920 x 1,200)",
+                    "Projector warranty: 2 years",
+                    "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                "name": "S1386WHn",
+                "name_specs": "",
+                "listed_specs": [
+                    "3,600 ANSI Lumens ",
+                    "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                    "WUXGA (1,920 x 1,200)",
+                    "Projector: 2 years",
+                    "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                ]
+            }
+        ]
+    },
+    "Business": {
+        "url": "https://store.acer.com/en-ph/business",
+        "sub-categories": {
+            "Altos Server": {
+                "url": "https://store.acer.com/en-ph/business/altos-server",
+                "items": []
+            }
+        }
+    },
+    "Accesories": {
+        "url": "https://store.acer.com/en-ph/accesories",
+        "sub-categories": {}
+    }
+}

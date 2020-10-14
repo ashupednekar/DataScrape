@@ -6,51 +6,94 @@
                 "url": "https://store.acer.com/en-ph/notebooks/consumer",
                 "items": [
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24ml1y",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_9.15.39_am_1_.jpeg",
-                        "name": "AOpen 24ML1Y",
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.8\" IPS LCD",
-                            "1920 x 1080 resolution with 75Hz refresh rate",
-                            "100 million:1 contrast ratio",
-                            "3 years warranty"
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24hc1qr-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am.jpeg",
-                        "name": "AOpen 24HC1QR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.6\" Curved Vertically aligned",
-                            "1920x1080 resolution with 144Hz  refresh rate",
-                            "100,000,000:1 contast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-27hc1r-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_1.jpeg",
-                        "name": "AOpen 27HC1R Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
                         "name_specs": "",
                         "listed_specs": [
-                            "27\" Curved Vertically aligned",
-                            "1920 x 1080 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-32hc1qur-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_2.jpeg",
-                        "name": "AOpen 32HC1QUR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
                         "name_specs": "",
                         "listed_specs": [
-                            "31.5\" Curved Vertically aligned",
-                            "2560 \u00d7 1440 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     }
                 ]
@@ -59,51 +102,94 @@
                 "url": "https://store.acer.com/en-ph/notebooks/aspire",
                 "items": [
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24ml1y",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_9.15.39_am_1_.jpeg",
-                        "name": "AOpen 24ML1Y",
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.8\" IPS LCD",
-                            "1920 x 1080 resolution with 75Hz refresh rate",
-                            "100 million:1 contrast ratio",
-                            "3 years warranty"
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24hc1qr-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am.jpeg",
-                        "name": "AOpen 24HC1QR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.6\" Curved Vertically aligned",
-                            "1920x1080 resolution with 144Hz  refresh rate",
-                            "100,000,000:1 contast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-27hc1r-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_1.jpeg",
-                        "name": "AOpen 27HC1R Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
                         "name_specs": "",
                         "listed_specs": [
-                            "27\" Curved Vertically aligned",
-                            "1920 x 1080 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-32hc1qur-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_2.jpeg",
-                        "name": "AOpen 32HC1QUR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
                         "name_specs": "",
                         "listed_specs": [
-                            "31.5\" Curved Vertically aligned",
-                            "2560 \u00d7 1440 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     }
                 ]
@@ -112,51 +198,94 @@
                 "url": "https://store.acer.com/en-ph/notebooks/ultra-thin",
                 "items": [
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24ml1y",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_9.15.39_am_1_.jpeg",
-                        "name": "AOpen 24ML1Y",
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.8\" IPS LCD",
-                            "1920 x 1080 resolution with 75Hz refresh rate",
-                            "100 million:1 contrast ratio",
-                            "3 years warranty"
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24hc1qr-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am.jpeg",
-                        "name": "AOpen 24HC1QR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.6\" Curved Vertically aligned",
-                            "1920x1080 resolution with 144Hz  refresh rate",
-                            "100,000,000:1 contast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-27hc1r-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_1.jpeg",
-                        "name": "AOpen 27HC1R Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
                         "name_specs": "",
                         "listed_specs": [
-                            "27\" Curved Vertically aligned",
-                            "1920 x 1080 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-32hc1qur-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_2.jpeg",
-                        "name": "AOpen 32HC1QUR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
                         "name_specs": "",
                         "listed_specs": [
-                            "31.5\" Curved Vertically aligned",
-                            "2560 \u00d7 1440 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     }
                 ]
@@ -165,51 +294,94 @@
                 "url": "https://store.acer.com/en-ph/notebooks/swift",
                 "items": [
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24ml1y",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_9.15.39_am_1_.jpeg",
-                        "name": "AOpen 24ML1Y",
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.8\" IPS LCD",
-                            "1920 x 1080 resolution with 75Hz refresh rate",
-                            "100 million:1 contrast ratio",
-                            "3 years warranty"
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24hc1qr-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am.jpeg",
-                        "name": "AOpen 24HC1QR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.6\" Curved Vertically aligned",
-                            "1920x1080 resolution with 144Hz  refresh rate",
-                            "100,000,000:1 contast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-27hc1r-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_1.jpeg",
-                        "name": "AOpen 27HC1R Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
                         "name_specs": "",
                         "listed_specs": [
-                            "27\" Curved Vertically aligned",
-                            "1920 x 1080 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-32hc1qur-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_2.jpeg",
-                        "name": "AOpen 32HC1QUR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
                         "name_specs": "",
                         "listed_specs": [
-                            "31.5\" Curved Vertically aligned",
-                            "2560 \u00d7 1440 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     }
                 ]
@@ -223,57 +395,193 @@
                 "url": "https://store.acer.com/en-ph/desktops/consumer",
                 "items": [
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24ml1y",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_9.15.39_am_1_.jpeg",
-                        "name": "AOpen 24ML1Y",
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.8\" IPS LCD",
-                            "1920 x 1080 resolution with 75Hz refresh rate",
-                            "100 million:1 contrast ratio",
-                            "3 years warranty"
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-24hc1qr-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am.jpeg",
-                        "name": "AOpen 24HC1QR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
                         "name_specs": "",
                         "listed_specs": [
-                            "23.6\" Curved Vertically aligned",
-                            "1920x1080 resolution with 144Hz  refresh rate",
-                            "100,000,000:1 contast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-27hc1r-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_1.jpeg",
-                        "name": "AOpen 27HC1R Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
                         "name_specs": "",
                         "listed_specs": [
-                            "27\" Curved Vertically aligned",
-                            "1920 x 1080 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     },
                     {
-                        "link": "https://store.acer.com/en-ph/monitor/aopen/aopen-32hc1qur-pbidpx",
-                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-14_at_10.39.48_am_2.jpeg",
-                        "name": "AOpen 32HC1QUR Pbidpx",
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
                         "name_specs": "",
                         "listed_specs": [
-                            "31.5\" Curved Vertically aligned",
-                            "2560 \u00d7 1440 resolution with 144Hz refresh rate",
-                            "100,000,000:1 contrast ratio",
-                            "3 years warranty"
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
                         ]
                     }
                 ]
             },
             "All-in-One": {
-                "url": "https://store.acer.com/en-ph/desktops/aio"
+                "url": "https://store.acer.com/en-ph/desktops/aio",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    }
+                ]
             }
         }
     },
@@ -281,16 +589,251 @@
         "url": "https://store.acer.com/en-ph/monitor",
         "sub-categories": {
             "Consumer": {
-                "url": "https://store.acer.com/en-ph/monitor/consumer"
+                "url": "https://store.acer.com/en-ph/monitor/consumer",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/acer-x1126h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1_2.jpeg",
+                        "name": "Acer X1126H",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "WUXGA (1920 x 1200)",
+                            "4,500 Hours Lamp hours (standard). 10,000 Lamp hours (Eco)",
+                            "Projector: 2 years warranty",
+                            "Lamp Warranty: 1 year or 1,000 hours whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/c250i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.50_am.jpeg",
+                        "name": "C250i",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "300 ANSI Lumens ",
+                            "FHD (1920 x 1080) Native resolution",
+                            "20,000 Lamp Hours",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/c202i",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.08.23_am_1_.jpeg",
+                        "name": "C202i",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "300 ANSI Lumens",
+                            "20,000 Lamp Hours",
+                            "FWVGA (854 x 480) resolution",
+                            "Projector: 2 years warranty",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x118h",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_2.jpeg",
+                        "name": "X118H",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens",
+                            "WUXGA (1,920 x 1,200)",
+                            "5,000 Lamp Hours (Standard), 6,000 Lamp Hours (ECO)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/x1126ah",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.11.11_am_1.jpeg",
+                        "name": "X1126AH",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "4,000 ANSI Lumens",
+                            "6,000 Lamp Hours (Standard), 10,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200) resolution",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/p6500",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.09.43_am_2_.jpeg",
+                        "name": "P6500",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "5,000 ANSI Lumens",
+                            "3,000 Lamp Hours (Standard), 4,000 Lamp Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector warranty: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/projector/s1386whn",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.10.06_am.jpeg",
+                        "name": "S1386WHn",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "3,600 ANSI Lumens ",
+                            "4,000 Hours (Standard), 6,000 Hours (ECO)",
+                            "WUXGA (1,920 x 1,200)",
+                            "Projector: 2 years",
+                            "Lamp warranty: 1 year or 1,000 lamp hours. Whichever comes first"
+                        ]
+                    }
+                ]
             },
             "Gaming": {
-                "url": "https://store.acer.com/en-ph/monitor/gaming"
+                "url": "https://store.acer.com/en-ph/monitor/gaming",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/business/altos-server/altos-t110-f4-xeonr-e3-1220v6-8gb-udimm-1gb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-06-17_at_1.22.46_pm_1_.jpeg",
+                        "name": "Altos T110 F4",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Intel\u00ae Xeon\u00ae  E3-1220v6 3GHz (8mb Smart Cache, up to 3.5 GHz)",
+                            "8GB ECC UDIMM DDR4 2400 ",
+                            "1,000 GB SATA III 3.5\" 7200rpm",
+                            "Sata Raid: Intel\u00ae C232 chipset with RSTe RAID support, SATA RAID 0, 1, 5, 10 on Windows OS only",
+                            "Up to 4 x 3.5\" SATA or up to 2 x 3.5\" SAS ",
+                            "3 Year warranty, 3 Years parts and Labor, 3 Year on-site assistance"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/business/altos-server/altos-t310-f4-xeonr-e3-1225v6-8gb-udimm-1tb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-06-17_at_1.23.07_pm.jpeg",
+                        "name": "Altos T310 F4",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Intel \u00aeXeon \u00ae E3-1230v6 3.5GHz (8MB Smart Cache, up to 3.9GHz)",
+                            "8GB ECC UDIMM DDR4 2400 ",
+                            " 1000GB SATA III 3.5\" 7200rpm",
+                            "Sata Raid: Intel\u00ae C232 chipset with RSTe RAID support, SATA RAID 0, 1, 5, 10 on Windows OS only",
+                            "Dedicated Management Port with BMC",
+                            "3 Year warranty, 3 Years parts and Labor, 3 Year on-site assistance"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/business/altos-server/altos-t310-f4",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-06-17_at_1.23.07_pm_1.jpeg",
+                        "name": "Altos T310 F4",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Intel Xeon E3-1225v6 LGA 3.0 8M 2133 72W Kaby Lake",
+                            "16GB DDR4 2400 (8GB x2)",
+                            " 1000GB SATA III 3.5\" 7200rpm",
+                            "Sata Raid: Intel\u00ae C232 chipset with RSTe RAID support, SATA RAID 0, 1, 5, 10 on Windows OS only",
+                            "Up to 4 x 3.5\" SATA or up to 2 x 3.5\" SAS ",
+                            "3 Year warranty, 3 Years parts and Labor, 3 Year on-site assistance"
+                        ]
+                    }
+                ]
             },
             "Aopen": {
-                "url": "https://store.acer.com/en-ph/monitor/aopen"
+                "url": "https://store.acer.com/en-ph/monitor/aopen",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/business/altos-server/altos-t110-f4-xeonr-e3-1220v6-8gb-udimm-1gb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-06-17_at_1.22.46_pm_1_.jpeg",
+                        "name": "Altos T110 F4",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Intel\u00ae Xeon\u00ae  E3-1220v6 3GHz (8mb Smart Cache, up to 3.5 GHz)",
+                            "8GB ECC UDIMM DDR4 2400 ",
+                            "1,000 GB SATA III 3.5\" 7200rpm",
+                            "Sata Raid: Intel\u00ae C232 chipset with RSTe RAID support, SATA RAID 0, 1, 5, 10 on Windows OS only",
+                            "Up to 4 x 3.5\" SATA or up to 2 x 3.5\" SAS ",
+                            "3 Year warranty, 3 Years parts and Labor, 3 Year on-site assistance"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/business/altos-server/altos-t310-f4-xeonr-e3-1225v6-8gb-udimm-1tb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-06-17_at_1.23.07_pm.jpeg",
+                        "name": "Altos T310 F4",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Intel \u00aeXeon \u00ae E3-1230v6 3.5GHz (8MB Smart Cache, up to 3.9GHz)",
+                            "8GB ECC UDIMM DDR4 2400 ",
+                            " 1000GB SATA III 3.5\" 7200rpm",
+                            "Sata Raid: Intel\u00ae C232 chipset with RSTe RAID support, SATA RAID 0, 1, 5, 10 on Windows OS only",
+                            "Dedicated Management Port with BMC",
+                            "3 Year warranty, 3 Years parts and Labor, 3 Year on-site assistance"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/business/altos-server/altos-t310-f4",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-06-17_at_1.23.07_pm_1.jpeg",
+                        "name": "Altos T310 F4",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Intel Xeon E3-1225v6 LGA 3.0 8M 2133 72W Kaby Lake",
+                            "16GB DDR4 2400 (8GB x2)",
+                            " 1000GB SATA III 3.5\" 7200rpm",
+                            "Sata Raid: Intel\u00ae C232 chipset with RSTe RAID support, SATA RAID 0, 1, 5, 10 on Windows OS only",
+                            "Up to 4 x 3.5\" SATA or up to 2 x 3.5\" SAS ",
+                            "3 Year warranty, 3 Years parts and Labor, 3 Year on-site assistance"
+                        ]
+                    }
+                ]
             },
             "V Series": {
-                "url": "https://store.acer.com/en-ph/monitor/v-series"
+                "url": "https://store.acer.com/en-ph/monitor/v-series",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-w-nvidia-gt730",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_1.jpeg",
+                        "name": "Aspire TC-866 w/ Nvidia GT730",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor bundle",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD storage",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-core-i7-gt1030-128gb-1tb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_4.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " core i7, GT1030, 128GB + 1TB HDD",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i7-9700",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-gt1030-and-128gb-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_3.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " GT1030 and 128GB SSD + 1TB",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i5-9400",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am.jpeg",
+                        "name": "Aspire TC-866",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD",
+                            "2 years warranty"
+                        ]
+                    }
+                ]
             }
         }
     },
@@ -298,16 +841,178 @@
         "url": "https://store.acer.com/en-ph/gaming",
         "sub-categories": {
             "Predator": {
-                "url": "https://store.acer.com/en-ph/gaming/predator"
+                "url": "https://store.acer.com/en-ph/gaming/predator",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-w-nvidia-gt730",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_1.jpeg",
+                        "name": "Aspire TC-866 w/ Nvidia GT730",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor bundle",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD storage",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-core-i7-gt1030-128gb-1tb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_4.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " core i7, GT1030, 128GB + 1TB HDD",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i7-9700",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-gt1030-and-128gb-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_3.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " GT1030 and 128GB SSD + 1TB",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i5-9400",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am.jpeg",
+                        "name": "Aspire TC-866",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD",
+                            "2 years warranty"
+                        ]
+                    }
+                ]
             },
             "Nitro": {
-                "url": "https://store.acer.com/en-ph/gaming/nitro"
+                "url": "https://store.acer.com/en-ph/gaming/nitro",
+                "items": [
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-w-nvidia-gt730",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_1.jpeg",
+                        "name": "Aspire TC-866 w/ Nvidia GT730",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor bundle",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD storage",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-core-i7-gt1030-128gb-1tb-hdd",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_4.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " core i7, GT1030, 128GB + 1TB HDD",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i7-9700",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-gt1030-and-128gb-ssd-1tb",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_3.jpeg",
+                        "name": "Aspire TC-866 ",
+                        "name_specs": " GT1030 and 128GB SSD + 1TB",
+                        "listed_specs": [
+                            "Desktop + Acer K242HQL 23.6\" monitor",
+                            "Intel Core i5-9400",
+                            "8GB RAM",
+                            "128GB SSD + 1TB HDD",
+                            "2 years warranty"
+                        ]
+                    },
+                    {
+                        "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866",
+                        "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am.jpeg",
+                        "name": "Aspire TC-866",
+                        "name_specs": "",
+                        "listed_specs": [
+                            "Desktop + Acer K222HQL 21.5\" monitor",
+                            "Intel Core i3-9100",
+                            "4GB RAM",
+                            "1TB HDD",
+                            "2 years warranty"
+                        ]
+                    }
+                ]
             }
         }
     },
     "Projector": {
         "url": "https://store.acer.com/en-ph/projector",
-        "sub-categories": {}
+        "sub-categories": {},
+        "items": [
+            {
+                "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-w-nvidia-gt730",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_1.jpeg",
+                "name": "Aspire TC-866 w/ Nvidia GT730",
+                "name_specs": "",
+                "listed_specs": [
+                    "Desktop + Acer K222HQL 21.5\" monitor bundle",
+                    "Intel Core i3-9100",
+                    "4GB RAM",
+                    "1TB HDD storage",
+                    "2 years warranty"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-core-i7-gt1030-128gb-1tb-hdd",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_4.jpeg",
+                "name": "Aspire TC-866 ",
+                "name_specs": " core i7, GT1030, 128GB + 1TB HDD",
+                "listed_specs": [
+                    "Desktop + Acer K242HQL 23.6\" monitor",
+                    "Intel Core i7-9700",
+                    "8GB RAM",
+                    "128GB SSD + 1TB HDD",
+                    "2 years warranty"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866-gt1030-and-128gb-ssd-1tb",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am_3.jpeg",
+                "name": "Aspire TC-866 ",
+                "name_specs": " GT1030 and 128GB SSD + 1TB",
+                "listed_specs": [
+                    "Desktop + Acer K242HQL 23.6\" monitor",
+                    "Intel Core i5-9400",
+                    "8GB RAM",
+                    "128GB SSD + 1TB HDD",
+                    "2 years warranty"
+                ]
+            },
+            {
+                "link": "https://store.acer.com/en-ph/desktops/consumer/aspire-tc-866",
+                "image": "https://static-ecapac.acer.com/media/catalog/product/cache/3406b1b44daa08472620e74815bd5d93/w/h/whatsapp_image_2020-05-10_at_7.06.59_am.jpeg",
+                "name": "Aspire TC-866",
+                "name_specs": "",
+                "listed_specs": [
+                    "Desktop + Acer K222HQL 21.5\" monitor",
+                    "Intel Core i3-9100",
+                    "4GB RAM",
+                    "1TB HDD",
+                    "2 years warranty"
+                ]
+            }
+        ]
     },
     "Business": {
         "url": "https://store.acer.com/en-ph/business",

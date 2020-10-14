@@ -84,17 +84,10 @@ class AcerSpider(scrapy.Spider):
         for k, v in self.products.items():
             if v['sub-categories']:
                 for a, b in v['sub-categories'].items():
-                    # sub-categories exists...
-                    # print(k)
-                    # print(a)
-                    # print(b['url'])
                     next_page = response.urljoin(b['url'])
                     yield scrapy.Request(next_page, callback=self.parse_categories(response, k, a), dont_filter=True)
             else:
                 # no sub-category found... using root link instead
-                print(k)
-                print(a)
-                print(v['url'])
                 if k == 'Accesories':
                     pass
                 else:
