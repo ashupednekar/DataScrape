@@ -27,7 +27,7 @@ class AcerSpider(scrapy.Spider):
                     }
 
     def parse_categories(self, response, current_cat, current_subcat=None):
-        print('parsing rootcategories...')
+        print('parsing categories...')
         product_items = response.xpath('//*[@id="maincontent"]/div[2]/div[1]/div[4]/ol')
         if current_subcat:
             self.products[current_cat]['sub-categories'][current_subcat]['items'] = []
@@ -38,6 +38,8 @@ class AcerSpider(scrapy.Spider):
             image = item.css('div div div a span span img::attr(src)').get()
             details = item.css('div.product-item-details div.products-textlink h2 a::text').get()
             if details:
+                print('category...', current_cat)
+                print('sub-category...', current_cat)
                 print('details...', details)
                 details = details.replace('\n', '').strip()
                 if '|' in details:
@@ -83,11 +85,18 @@ class AcerSpider(scrapy.Spider):
             if v['sub-categories']:
                 for a, b in v['sub-categories'].items():
                     # sub-categories exists...
-                    if a in ['Laptop', 'Desktops', 'Monitor', 'Gaming', 'Projector']:
-                        next_page = response.urljoin(b['url'])
-                        yield scrapy.Request(next_page, callback=self.parse_categories(response, k, a), dont_filter=True)
-                    else:
-                        pass
+                    # print(k)
+                    # print(a)
+                    # print(b['url'])
+                    next_page = response.urljoin(b['url'])
+                    yield scrapy.Request(next_page, callback=self.parse_categories(response, k, a), dont_filter=True)
             else:
                 # no sub-category found... using root link instead
-                yield scrapy.Request(v['url'], callback=self.parse_categories(response, k), dont_filter=True)
+                print(k)
+                print(a)
+                print(v['url'])
+                if k == 'Accesories':
+                    pass
+                else:
+                    next_page = response.urljoin(v['url'])
+                    yield scrapy.Request(next_page, callback=self.parse_categories(response, k), dont_filter=True)
