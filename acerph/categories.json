@@ -1,0 +1,74 @@
+{
+    "Laptop": {
+        "url": "https://store.acer.com/en-ph/notebooks",
+        "sub-categories": {
+            "Consumer": {
+                "url": "https://store.acer.com/en-ph/notebooks/consumer"
+            },
+            "Aspire": {
+                "url": "https://store.acer.com/en-ph/notebooks/aspire"
+            },
+            "Ultra-Thin": {
+                "url": "https://store.acer.com/en-ph/notebooks/ultra-thin"
+            },
+            "Swift": {
+                "url": "https://store.acer.com/en-ph/notebooks/swift"
+            }
+        }
+    },
+    "Desktops": {
+        "url": "https://store.acer.com/en-ph/desktops",
+        "sub-categories": {
+            "Consumer": {
+                "url": "https://store.acer.com/en-ph/desktops/consumer"
+            },
+            "All-in-One": {
+                "url": "https://store.acer.com/en-ph/desktops/aio"
+            }
+        }
+    },
+    "Monitor": {
+        "url": "https://store.acer.com/en-ph/monitor",
+        "sub-categories": {
+            "Consumer": {
+                "url": "https://store.acer.com/en-ph/monitor/consumer"
+            },
+            "Gaming": {
+                "url": "https://store.acer.com/en-ph/monitor/gaming"
+            },
+            "Aopen": {
+                "url": "https://store.acer.com/en-ph/monitor/aopen"
+            },
+            "V Series": {
+                "url": "https://store.acer.com/en-ph/monitor/v-series"
+            }
+        }
+    },
+    "Gaming": {
+        "url": "https://store.acer.com/en-ph/gaming",
+        "sub-categories": {
+            "Predator": {
+                "url": "https://store.acer.com/en-ph/gaming/predator"
+            },
+            "Nitro": {
+                "url": "https://store.acer.com/en-ph/gaming/nitro"
+            }
+        }
+    },
+    "Projector": {
+        "url": "https://store.acer.com/en-ph/projector",
+        "sub-categories": {}
+    },
+    "Business": {
+        "url": "https://store.acer.com/en-ph/business",
+        "sub-categories": {
+            "Altos Server": {
+                "url": "https://store.acer.com/en-ph/business/altos-server"
+            }
+        }
+    },
+    "Accesories": {
+        "url": "https://store.acer.com/en-ph/accesories",
+        "sub-categories": {}
+    }
+}
