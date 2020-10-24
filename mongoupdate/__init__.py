@@ -123,8 +123,8 @@ class AcerMongoClient:
                             if product not in ['altos', 'spin']:
                                 query = {
                                     'Category': category,
-                                    'Product': product,
-                                    'Sub Category': sub_category,
+                                    # 'Product': product,
+                                    # 'Sub Category': sub_category,
                                     'Sub Product': sub_product
                                 }
                                 changes = {'$set': {}}
@@ -177,13 +177,41 @@ class AcerMongoClient:
                                     screen_size = detailedspecs.get('Screen Size').lower().split(' (')[1].replace(')', '')
                                 else:
                                     screen_size = ''
-                                query = {
+                                imgquery = {
                                     'Category': category,
-                                    'Product': product,
-                                    'Sub Category': sub_category,
+                                    # 'Product': product,
+                                    # 'Sub Category': sub_category,
                                     'Sub Product': sub_product
                                 }
-                                prchanges['$set'] = {
+                                imgchanges = {'$set': {}}
+                                imgchanges['$set'] = {
+                                    'buy_now_url': buy_now_url,
+                                    'image_url': image_url,
+                                    'Battery': battery_life,
+                                    'Graphics Memory Accessibility': graphics_type,
+                                    'Hard Drive': hdd_space,
+                                    'Memory': ram,
+                                    'Processor': cpu,
+                                    'SSD capacity': ssd_space,
+                                    'Screen Size': screen_size,
+                                    'operating system': operating_system,
+                                    'Sub_Product_Description': '|||'.join(x['quickspecs']),
+                                    'Price': int(x.get('price').replace(',', '').replace('₱', '').strip())
+                                }
+                                self.images_search_col.update_one(
+                                    filter=imgquery,
+                                    update=imgchanges,
+                                    upsert=True
+                                )
+                                ############################################################################################
+                                prodquery = {
+                                    'Category': category,
+                                    # 'Product': product,
+                                    # 'Sub Category': sub_category,
+                                    'Sub Product': sub_product
+                                }
+                                prodchanges = {'$set': {}}
+                                prodchanges['$set'] = {
                                     'Battery': battery_life,
                                     'Graphics Memory Accessibility': graphics_type,
                                     'Hard Drive': hdd_space,
@@ -195,11 +223,12 @@ class AcerMongoClient:
                                     'Price': int(x.get('price').replace(',', '').replace('₱', '').strip()),
                                 }
                                 self.products_search_col.update_one(
-                                    filter=query,
-                                    update=prchanges,
+                                    filter=prodquery,
+                                    update=prodchanges,
                                     upsert=True
                                 )
-                                query = {
+                                ############################################################################################
+                                faqquery = {
                                     'Category': category,
                                     'Product': product,
                                     'Sub_Category': sub_category,
@@ -208,7 +237,8 @@ class AcerMongoClient:
                                 product_desc = '|||'.join(x['quickspecs'])
                                 with open('standard_answers.json', 'r') as f:
                                     standard_answers = json.loads(f.read())
-                                prchanges['$set'] = {
+                                faqchanges = {'$set': {}}
+                                faqchanges['$set'] = {
                                     'Default_image': 'https://whatsapp-img.s3.amazonaws.com/ocr-media/notebook-G.png',
                                     'Sub_Product_Description': product_desc,
                                     'Sub_Product_image': json.loads(self.get_faq_image(
@@ -216,13 +246,14 @@ class AcerMongoClient:
                                         file_type='jpg',
                                         txn_template='product_faq',
                                         name=' '.join(x['name'].split(' ')[:-1]),
-                                        model_no= x['name'].split(' ')[-1],
+                                        model_no=x['name'].split(' ')[-1],
                                         price=x['price'].replace('₱', ''),
                                         image_url=x['image']
                                     )).get('path'),
                                     'Sub_Product_buy_now_url': x['link'],
                                     'Price': standard_answers[product.lower()]['Price'],
-                                    'Graphics Memory Accessibility': standard_answers[product.lower()]['Graphics Memory Accessibility'],
+                                    'Graphics Memory Accessibility': standard_answers[product.lower()][
+                                        'Graphics Memory Accessibility'],
                                     'Hard Drive': standard_answers[product.lower()]['Hard Drive'],
                                     'SSD capacity': standard_answers[product.lower()]['SSD capacity'],
                                     'Screen Size': standard_answers[product.lower()]['Screen Size'],
@@ -232,8 +263,8 @@ class AcerMongoClient:
                                     'Memory': standard_answers[product.lower()]['Memory'],
                                 }
                                 self.faq_search_col.update_one(
-                                    filter=query,
-                                    update=prchanges,
+                                    filter=faqquery,
+                                    update=faqchanges,
                                     upsert=True
                                 )
             else:
@@ -307,24 +338,7 @@ class AcerMongoClient:
                         print(
                             category + '|' + product + '|' + sub_category + '|' + sub_product + ' | ' + buy_now_url + ' | ' + image_url)
                         if product not in ['altos']:
-                            query = {
-                                'Category': category,
-                                'Product': product,
-                                'Sub Category': sub_category,
-                                'Sub Product': sub_product
-                            }
-                            changes = {'$set': {}}
-                            changes['$set'] = {
-                                'buy_now_url': buy_now_url,
-                                'image_url': image_url
-                            }
-                            self.images_search_col.update_one(
-                                filter=query,
-                                update=changes,
-                                upsert=True
-                            )
                             detailedspecs = x['detailed_specs']
-                            prchanges = {'$set': {}}
                             # print(x['name'])
                             if detailedspecs.get('Maximum Battery Run Time'):
                                 battery_life = detailedspecs.get('Maximum Battery Run Time').lower().replace('hour',
@@ -364,13 +378,40 @@ class AcerMongoClient:
                                 screen_size = detailedspecs.get('Screen Size').lower().split(' (')[1].replace(')', '')
                             else:
                                 screen_size = ''
-                            query = {
+                            imgquery = {
                                 'Category': category,
-                                'Product': product,
-                                'Sub Category': sub_category,
+                                # 'Product': product,
+                                # 'Sub Category': sub_category,
                                 'Sub Product': sub_product
                             }
-                            prchanges['$set'] = {
+                            imgchanges = {'$set': {}}
+                            imgchanges['$set'] = {
+                                'buy_now_url': buy_now_url,
+                                'image_url': image_url,
+                                'Battery': battery_life,
+                                'Graphics Memory Accessibility': graphics_type,
+                                'Hard Drive': hdd_space,
+                                'Memory': ram,
+                                'Processor': cpu,
+                                'SSD capacity': ssd_space,
+                                'Screen Size': screen_size,
+                                'operating system': operating_system,
+                                'Price': int(x.get('price').replace(',', '').replace('₱', '').strip())
+                            }
+                            self.images_search_col.update_one(
+                                filter=imgquery,
+                                update=imgchanges,
+                                upsert=True
+                            )
+                            ############################################################################################
+                            prodquery = {
+                                'Category': category,
+                                # 'Product': product,
+                                # 'Sub Category': sub_category,
+                                'Sub Product': sub_product
+                            }
+                            prodchanges = {'$set': {}}
+                            prodchanges['$set'] = {
                                 'Battery': battery_life,
                                 'Graphics Memory Accessibility': graphics_type,
                                 'Hard Drive': hdd_space,
@@ -382,11 +423,12 @@ class AcerMongoClient:
                                 'Price': int(x.get('price').replace(',', '').replace('₱', '').strip()),
                             }
                             self.products_search_col.update_one(
-                                filter=query,
-                                update=prchanges,
+                                filter=prodquery,
+                                update=prodchanges,
                                 upsert=True
                             )
-                            query = {
+                            ############################################################################################
+                            faqquery = {
                                 'Category': category,
                                 'Product': product,
                                 'Sub_Category': sub_category,
@@ -395,7 +437,8 @@ class AcerMongoClient:
                             product_desc = '|||'.join(x['quickspecs'])
                             with open('standard_answers.json', 'r') as f:
                                 standard_answers = json.loads(f.read())
-                            prchanges['$set'] = {
+                            faqchanges = {'$set': {}}
+                            faqchanges['$set'] = {
                                 'Default_image': 'https://whatsapp-img.s3.amazonaws.com/ocr-media/notebook-G.png',
                                 'Sub_Product_Description': product_desc,
                                 'Sub_Product_image': json.loads(self.get_faq_image(
@@ -420,8 +463,8 @@ class AcerMongoClient:
                                 'Memory': standard_answers[product.lower()]['Memory'],
                             }
                             self.faq_search_col.update_one(
-                                filter=query,
-                                update=prchanges,
+                                filter=faqquery,
+                                update=faqchanges,
                                 upsert=True
                             )
 
