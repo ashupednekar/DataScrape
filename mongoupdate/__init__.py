@@ -195,7 +195,7 @@ class AcerMongoClient:
                                 imgchanges = {'$set': {}}
                                 imgchanges['$set'] = {
                                     'buy_now_url': buy_now_url,
-                                    'image_url': image_url,
+                                    'image_url': {'webchat': webchat_image_url, 'messenger': messenger_image_url},
                                     'Battery': battery_life,
                                     'Graphics Memory Accessibility': graphics_type,
                                     'Hard Drive': hdd_space,
