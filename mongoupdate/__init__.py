@@ -26,7 +26,7 @@ class AcerMongoClient:
             }
         }
         generated_image_url = requests.post(
-            url='http://localhost:8989/img_gen',
+            url='https://dev2.bankbuddy.me/img_gen',
             data=json.dumps(product_faq_payload),
             headers={'Content-Type': 'application/json'}
         ).text
@@ -109,17 +109,26 @@ class AcerMongoClient:
                             else:
                                 product = sub_product
                             buy_now_url = x['link']
-                            image_url = json.loads(self.get_faq_image(
+                            webchat_image_url = json.loads(self.get_faq_image(
                                 client='acer',
                                 file_type='jpg',
-                                txn_template='product_faq',
+                                txn_template='product_faq_webchat',
+                                name=' '.join(x['name'].split(' ')[:-1]),
+                                model_no= x['name'].split(' ')[-1],
+                                price=x['price'].replace('₱', ''),
+                                image_url=x['image']
+                            )).get('path')
+                            messenger_image_url = json.loads(self.get_faq_image(
+                                client='acer',
+                                file_type='jpg',
+                                txn_template='product_faq_messenger',
                                 name=' '.join(x['name'].split(' ')[:-1]),
                                 model_no= x['name'].split(' ')[-1],
                                 price=x['price'].replace('₱', ''),
                                 image_url=x['image']
                             )).get('path')
                             print(
-                                category + '|' + product + '|' + sub_category + '|' + sub_product + ' | ' + buy_now_url + ' | ' + image_url)
+                                category + '|' + product + '|' + sub_category + '|' + sub_product + ' | ' + buy_now_url + ' | ' + webchat_image_url + ' | '+ messenger_image_url)
                             if product not in ['altos', 'spin']:
                                 query = {
                                     'Category': category,
@@ -130,7 +139,7 @@ class AcerMongoClient:
                                 changes = {'$set': {}}
                                 changes['$set'] = {
                                     'buy_now_url': buy_now_url,
-                                    'image_url': image_url
+                                    'image_url': {'webchat': webchat_image_url, 'messenger': messenger_image_url}
                                 }
                                 self.images_search_col.update_one(
                                     filter=query,
@@ -241,15 +250,26 @@ class AcerMongoClient:
                                 faqchanges['$set'] = {
                                     'Default_image': 'https://whatsapp-img.s3.amazonaws.com/ocr-media/notebook-G.png',
                                     'Sub_Product_Description': product_desc,
-                                    'Sub_Product_image': json.loads(self.get_faq_image(
-                                        client='acer',
-                                        file_type='jpg',
-                                        txn_template='product_faq',
-                                        name=' '.join(x['name'].split(' ')[:-1]),
-                                        model_no=x['name'].split(' ')[-1],
-                                        price=x['price'].replace('₱', ''),
-                                        image_url=x['image']
-                                    )).get('path'),
+                                    'Sub_Product_image': {
+                                        'webchat': json.loads(self.get_faq_image(
+                                            client='acer',
+                                            file_type='jpg',
+                                            txn_template='product_faq_webchat',
+                                            name=' '.join(x['name'].split(' ')[:-1]),
+                                            model_no=x['name'].split(' ')[-1],
+                                            price=x['price'].replace('₱', ''),
+                                            image_url=x['image']
+                                        )).get('path'),
+                                        'messenger': json.loads(self.get_faq_image(
+                                            client='acer',
+                                            file_type='jpg',
+                                            txn_template='product_faq_messenger',
+                                            name=' '.join(x['name'].split(' ')[:-1]),
+                                            model_no=x['name'].split(' ')[-1],
+                                            price=x['price'].replace('₱', ''),
+                                            image_url=x['image']
+                                        )).get('path')
+                                    },
                                     'Sub_Product_buy_now_url': x['link'],
                                     'Price': standard_answers[product.lower()]['Price'],
                                     'Graphics Memory Accessibility': standard_answers[product.lower()][
@@ -326,17 +346,26 @@ class AcerMongoClient:
                         else:
                             product = sub_product
                         buy_now_url = x['link']
-                        image_url = json.loads(self.get_faq_image(
+                        webchat_image_url = json.loads(self.get_faq_image(
                             client='acer',
                             file_type='jpg',
-                            txn_template='product_faq',
+                            txn_template='product_faq_webchat',
+                            name=' '.join(x['name'].split(' ')[:-1]),
+                            model_no=x['name'].split(' ')[-1],
+                            price=x['price'].replace('₱', ''),
+                            image_url=x['image']
+                        )).get('path')
+                        messenger_image_url = json.loads(self.get_faq_image(
+                            client='acer',
+                            file_type='jpg',
+                            txn_template='product_faq_messenger',
                             name=' '.join(x['name'].split(' ')[:-1]),
                             model_no=x['name'].split(' ')[-1],
                             price=x['price'].replace('₱', ''),
                             image_url=x['image']
                         )).get('path')
                         print(
-                            category + '|' + product + '|' + sub_category + '|' + sub_product + ' | ' + buy_now_url + ' | ' + image_url)
+                            category + '|' + product + '|' + sub_category + '|' + sub_product + ' | ' + buy_now_url + ' | ' + webchat_image_url + ' | ' + messenger_image_url)
                         if product not in ['altos']:
                             detailedspecs = x['detailed_specs']
                             # print(x['name'])
@@ -387,7 +416,7 @@ class AcerMongoClient:
                             imgchanges = {'$set': {}}
                             imgchanges['$set'] = {
                                 'buy_now_url': buy_now_url,
-                                'image_url': image_url,
+                                'image_url': {'webchat': webchat_image_url, 'messenger': messenger_image_url},
                                 'Battery': battery_life,
                                 'Graphics Memory Accessibility': graphics_type,
                                 'Hard Drive': hdd_space,
@@ -396,6 +425,7 @@ class AcerMongoClient:
                                 'SSD capacity': ssd_space,
                                 'Screen Size': screen_size,
                                 'operating system': operating_system,
+                                'Sub_Product_Description': '|||'.join(x['quickspecs']),
                                 'Price': int(x.get('price').replace(',', '').replace('₱', '').strip())
                             }
                             self.images_search_col.update_one(
@@ -441,15 +471,27 @@ class AcerMongoClient:
                             faqchanges['$set'] = {
                                 'Default_image': 'https://whatsapp-img.s3.amazonaws.com/ocr-media/notebook-G.png',
                                 'Sub_Product_Description': product_desc,
-                                'Sub_Product_image': json.loads(self.get_faq_image(
-                                    client='acer',
-                                    file_type='jpg',
-                                    txn_template='product_faq',
-                                    name=' '.join(x['name'].split(' ')[:-1]),
-                                    model_no=x['name'].split(' ')[-1],
-                                    price=x['price'].replace('₱', ''),
-                                    image_url=x['image']
-                                )).get('path'),
+                                'Sub_Product_image': {
+                                    'webchat': json.loads(self.get_faq_image(
+                                        client='acer',
+                                        file_type='jpg',
+                                        txn_template='product_faq_webchat',
+                                        name=' '.join(x['name'].split(' ')[:-1]),
+                                        model_no=x['name'].split(' ')[-1],
+                                        price=x['price'].replace('₱', ''),
+                                        image_url=x['image']
+                                    )).get('path'),
+                                    'messenger': json.loads(self.get_faq_image(
+                                        client='acer',
+                                        file_type='jpg',
+                                        txn_template='product_faq_messenger',
+                                        name=' '.join(x['name'].split(' ')[:-1]),
+                                        model_no=x['name'].split(' ')[-1],
+                                        price=x['price'].replace('₱', ''),
+                                        image_url=x['image']
+                                    )).get('path'),
+
+                                },
                                 'Sub_Product_buy_now_url': x['link'],
                                 'Price': standard_answers[product.lower()]['Price'],
                                 'Graphics Memory Accessibility': standard_answers[product.lower()][
